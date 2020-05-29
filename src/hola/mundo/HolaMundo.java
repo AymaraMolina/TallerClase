@@ -25,7 +25,7 @@ public class HolaMundo {
         System.out.println("LOL");
         if (edad > perdida) {
             
-            System.out.println("exacto");
+            System.out.println("Aymara Molina");
             
         } else {
             
